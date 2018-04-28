@@ -1,0 +1,16 @@
+import math
+import numpy as np
+import pandas as pd
+import random
+import matplotlib as streamplotimport matplotlib.pyplot as plt
+import seaborn as sns
+import scipy.stats as stats
+import re
+import requests
+import json
+from bs4 import BeautifulSoup
+import sqlite3
+import psycopg2
+%matplotlib inline
+from IPython.core.interactiveshell import InteractiveShell
+InteractiveShell.ast_node_interactivity = "all"
